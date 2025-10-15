@@ -1,0 +1,3 @@
+<h1>App Privacy Policy</h1>
+<p>This app does not collect or store personal data. 
+Authentication is handled securely through TikTok OAuth 2.0.</p>

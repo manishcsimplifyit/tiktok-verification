@@ -1,0 +1,3 @@
+<h1>App Terms of Service</h1>
+<p>This app complies with TikTok Developer Policy. Users’ data is not shared or sold. 
+All operations use TikTok’s official APIs securely.</p>
